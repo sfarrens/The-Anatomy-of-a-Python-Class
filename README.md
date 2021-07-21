@@ -1,3 +1,7 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sfarrens/The-Anatomy-of-a-Python-Class/HEAD)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sfarrens/The-Anatomy-of-a-Python-Class)
+
+
 <img src="./images/logo.jpg">
 
 <a href="http://www.cosmostat.org/" target="_blank"><img src="./images/cosmostat_logo.jpg" height=70></a><a href="https://ep2021.europython.eu/talks/BivGxE9-the-anatomy-of-a-python-class/" target="_blank"><img src="./images/europython_2021_logo.jpg" height=70></a>

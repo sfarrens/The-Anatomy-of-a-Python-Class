@@ -1,6 +1,6 @@
 <img src="./images/logo.jpg">
 
-<a href="http://www.cosmostat.org/" target="_blank"><img src="./images/cosmostat_logo.jpg" width=250></a><a href="https://ep2021.europython.eu/talks/BivGxE9-the-anatomy-of-a-python-class/" target="_blank"><img src="./images/europython_2021_logo.jpg" width=250></a>
+<a href="http://www.cosmostat.org/" target="_blank"><img src="./images/cosmostat_logo.jpg" height=70></a><a href="https://ep2021.europython.eu/talks/BivGxE9-the-anatomy-of-a-python-class/" target="_blank"><img src="./images/europython_2021_logo.jpg" height=70></a>
 
 ## Abstract
 

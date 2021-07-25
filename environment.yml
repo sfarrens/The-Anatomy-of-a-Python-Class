@@ -1,0 +1,6 @@
+name: pyanatomy
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter=1.0.0

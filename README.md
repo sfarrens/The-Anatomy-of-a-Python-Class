@@ -10,7 +10,7 @@
 
 ## Abstract
 
-Classes are one of the fundamental building blocks of Python and are essential for object-oriented programming. In this tutorial we will explore how classes work and look at tips and tricks for getting the most out of them. By the end you should have, not only a much better understanding of what Python classes are, but also some new ideas for writing better code.
+Classes are one of the fundamental building blocks of Python and are essential for object-oriented programming. In this tutorial we will explore how classes work, and look at tips and tricks for getting the most out of them. By the end you should have, not only a much better understanding of what Python classes are, but also some new ideas for writing better code.
 
 This first part of the tutorial presents some introductory and intermediate topics. The focus being on an intimate understanding of how classes work in Python.
 - Methods
@@ -34,9 +34,11 @@ This tutorial consists of two [Jupyter](https://jupyter.readthedocs.io/) noteboo
 
 Both notebooks can be run remotely using either [Binder](https://mybinder.org/v2/gh/sfarrens/The-Anatomy-of-a-Python-Class/HEAD) or [Google Colab](https://colab.research.google.com/github/sfarrens/The-Anatomy-of-a-Python-Class) without the need to install anything locally. Note, however, the performance of either of these services may depend on the quality of your internet connection.
 
-To run the notebooks remotely simply click on the badge at the top of this document for the service you prefer to use. 
+To run the notebooks remotely simply click on the badge at the top of this document for the service you prefer to use.
 
 > :warning: If you opt to use Binder, you may want to launch the server 5-10min before the session starts as it can take some time.
+>
+> If you opt to use Google Colab, the first time you execute a cell you will get a warning that says "Warning: This notebook was not authored by Google.". Click "Run anyway". Also note that some cells are collapsed by default so you need to click on sections that say "X cells hidden" to view the full content.
 
 ### Running Locally
 

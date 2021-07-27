@@ -83,3 +83,9 @@ $ jupyter notebook
 ```
 
 This should open Jupyter in your default web browser.
+
+## Exercise Solutions
+
+Example solutions to the exercises can be found in the presentation versions of the notebooks located in the `presentation` directory.
+
+Any comments or questions about these solutions can be raised in the [Discussions](https://github.com/sfarrens/The-Anatomy-of-a-Python-Class/discussions/1).
